@@ -1,0 +1,11 @@
+home:
+    pattern:  /
+    defaults: { _controller: AcmeHelloBundle:Hello:index, name: 'World' }
+
+about:
+        pattern: /about
+        defaults: { _controller: AcmeHelloBundle:Hello:about }
+
+blog:
+        pattern: /blog
+        defaults: { _controller: AcmeHelloBundle:Hello:blog }

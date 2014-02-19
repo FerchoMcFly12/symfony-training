@@ -1,0 +1,24 @@
+a {
+  color: #dddddd;
+  text-decoration: none; }
+  a:hover {
+    color: white; }
+
+body {
+  background-color: #dddddd;
+  color: #333333; }
+
+footer {
+  background-color: #333333;
+  color: #dddddd;
+  text-align: center; }
+
+nav {
+  background-color: #333333;
+  padding: 0.3em; }
+  nav ul li {
+    display: inline;
+    margin: 0.5em; }
+
+section {
+  padding: 1em; }
